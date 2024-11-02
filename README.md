@@ -1,4 +1,4 @@
-![Screenshot (439)](https://github.com/user-attachments/assets/fc83c3e8-959a-4fb1-8fd5-d4e3e9223d9c)<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
+![Screenshot (439)]<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # Nannavado 🎯
 
