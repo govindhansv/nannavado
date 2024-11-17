@@ -14,7 +14,7 @@ const Gym = () => {
       textAlign: 'center'
     }}>
       <h1 style={{ color: '#555' }}>Go to Gym</h1>
-      <p style={{ marginBottom: '20px' }}>It's a great way to release some anger!</p>
+      <p style={{ marginBottom: '20px' }}>It&apos;s a great way to release some anger!</p>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/FlBUw7UzIjw?si=7hVec0slONj0qW1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
   );
